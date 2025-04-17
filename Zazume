@@ -1,1 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alquiler Garantizado con Imanol y Zazume</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #f0f4ff;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+      color: #1a3f8b;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #1a3f8b;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul li::before {
+      content: "✓ ";
+      color: #1a3f8b;
+      font-weight: bold;
+    }
+    .cta {
+      background-color: #1a3f8b;
+      color: white;
+      padding: 1rem 2rem;
+      text-align: center;
+      margin: 2rem auto;
+      display: inline-block;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
 
+  <header>
+    <h1>Te garantizamos tu alquiler antes, durante y después del contrato</h1>
+    <p>Con Imanol y Zazume, ¡olvídate de impagos! Cobra cada mes tu alquiler, aunque el inquilino no pague o se retrase.</p>
+  </header>
+
+  <section>
+    <h2>¿Eres propietario?</h2>
+    <p>Garantiza tu alquiler hoy</p>
+    <a href="#" class="cta">Solicitar información</a>
+  </section>
+
+  <section>
+    <h2>Alquiler garantizado: Recibe tu alquiler mes a mes, sin excepciones</h2>
+    <ul>
+      <li>Olvídate de impagos</li>
+      <li>Cobertura ilimitada, sin límite de tiempo ni carencias</li>
+      <li>Verificación de solvencia para inquilinos y seguro de impago</li>
+      <li>Un equipo profesional para acompañarte en todo el proceso</li>
+      <li>Cobra tu alquiler pase lo que pase el 10 de cada mes</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Descubre las ventajas del seguro de alquiler y garantiza tu alquiler</h2>
+    <p>Haz que tu propiedad trabaje para ti con nuestro servicio de Alquiler Garantizado y olvídate de preocupaciones. Alquila con seguridad con Zazume.</p>
+    <ul>
+      <li>Servicio integral: desde encontrar inquilinos hasta gestionar pagos y contratos</li>
+      <li>Seguridad garantizada: cobramos tu alquiler mes a mes, incluso en caso de impago</li>
+      <li>Asesoramiento personalizado durante todo el proceso</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Imanol y Zazume. Todos los derechos reservados.</p>
+  </footer>
+
+</body>
+</html>
